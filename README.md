@@ -42,18 +42,23 @@ This code pattern is for developers looking to start building blockchain applica
 
 https://stackoverflow.com/questions/48365524/uninstall-hyperledger-composer
 
+Before we begin the install process we want to make certain that we remove any components that can collide with
+what we are going to install.
+
+So please run the following commands:
+
 Run these commands below to stop and remove container processes.
 
 - docker stop $(docker ps -a -q)
 - docker rm $(docker ps -a -q)
+
 To stop and remove images completely run the following commands
 
 - docker stop $(docker images -a -q)
 - docker rmi $(docker images -a -q)
-To check if anything is there ,
-
 - docker ps -a
 - docker images -a
+
 - npm uninstall -g composer-cli
 - npm uninstall -g composer-rest-server
 - npm uninstall -g generator-hyperledger-composer
@@ -61,6 +66,7 @@ To check if anything is there ,
 - npm uninstall -g composer-pla
 - npm uninstall -g composer-cli
 - npm uninstall -g composer-rest-server
+
 - rm -rf ~/.composer
 - rm *.card
 - rm -rf credentials
@@ -69,7 +75,7 @@ To check if anything is there ,
 
 Follow these steps to setup and run this code pattern. The steps are described in detail below.
 
-## Prerequisite
+## Prerequisitea
 - Operating Systems: Ubuntu Linux 14.04 / 16.04 LTS (both 64-bit), or Mac OS 10.12
 - [Docker](https://www.docker.com/) (Version 17.03 or higher)
 - [npm](https://www.npmjs.com/)  (v5.x)
