@@ -75,7 +75,7 @@ To stop and remove images completely run the following commands
 
 Follow these steps to setup and run this code pattern. The steps are described in detail below.
 
-## Prerequisitea
+## Prerequisites
 - Operating Systems: Ubuntu Linux 14.04 / 16.04 LTS (both 64-bit), or Mac OS 10.12
 - [Docker](https://www.docker.com/) (Version 17.03 or higher)
 - [npm](https://www.npmjs.com/)  (v5.x)
