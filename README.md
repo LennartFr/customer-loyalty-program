@@ -25,7 +25,7 @@ This code pattern is for developers looking to start building blockchain applica
 4. Partner can sign-in to view their transactions and display dashboard
 
 
-# Included Components
+# Hyperledger and Blockchain Components we will be working with
 
 * [Hyperledger Composer v0.19.4](https://hyperledger.github.io/composer/latest/) Hyperledger Composer is an extensive, open development toolset and framework to make developing blockchain applications easier
 * [Hyperledger Fabric v1.1](https://hyperledger-fabric.readthedocs.io) Hyperledger Fabric is a platform for distributed ledger solutions, underpinned by a modular architecture delivering high degrees of confidentiality, resiliency, flexibility and scalability.
