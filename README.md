@@ -115,6 +115,12 @@ npm start
 The application should now be running at:
 `http://localhost:8000`
 
+# Lennart Note:  https://stackoverflow.com/questions/48804166/composer-runtime-install-error-card-not-found-peeradmin
+
+When you run the program and create Member Registration you will get the following error:
+
+https://stackoverflow.com/questions/48804166/composer-runtime-install-error-card-not-found-peeradmin
+
 <div style='border: 2px solid #f00;'>
   <img width="1000" src="docs/doc-images/app.png">
 </div>
