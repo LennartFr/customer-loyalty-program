@@ -1,3 +1,5 @@
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
 # Customer Loyalty Program with blockchain
 
 This blockchain model for a customer loyalty program enhances the value of points to loyalty program members and brings in new value to the partners. Participants in this network have a more level relation among each other and points are in the centric position to connect all participants.
@@ -12,6 +14,7 @@ This code pattern is for developers looking to start building blockchain applica
 * Deploy the network to an instance of Hyperledger Fabric locally and IBM Blockchain
 * Build a Node.js web application to interact with the blockchain network using Composer API
 
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Architecture Flow
 
@@ -35,6 +38,7 @@ This code pattern is for developers looking to start building blockchain applica
 + [Nodejs](https://www.python.org/) Node.js is an open-source, cross-platform JavaScript run-time environment that executes JavaScript code server-side
 + [Bootstrap](https://getbootstrap.com/) Bootstrap is an open source toolkit for developing with HTML, CSS, and JS
 
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Installing the Application
 
@@ -115,15 +119,17 @@ The `composer archive create` command in `package.json` has created a file calle
 
 
 
-## 3. Deploy Network
+## 3. Deploy the Business Network
 
 The bna can be deployed to a local instance of Fabric or can use IBM Blockchain Starter Plan.
 
 - [Deploy to Hyperledger Fabric locally](./docs/deploy-local-fabric.md)
 - [Deploy to IBM Blockchain Starter Plan](./docs/deploy-ibm-starter.md)
 
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-## 4. Run Application
+
+## 4. Run the Application
 
 Go into the `web-app` folder and install the dependency:
 
