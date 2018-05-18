@@ -40,7 +40,7 @@ This code pattern is for developers looking to start building blockchain applica
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-# Installing the Application
+# Install the Application
 
 Follow these steps to setup and run this code pattern. The steps are described in detail below.
 
