@@ -118,18 +118,19 @@ npm install
 The `composer archive create` command in `package.json` has created a file called `clp-network@0.0.1.bna`.   
 
 
-
 ## 3. Deploy the Business Network
 
-The bna can be deployed to a local instance of Fabric or can use IBM Blockchain Starter Plan.
+The bna can either be deployed to a local instance of Fabric or to the IBM Blockchain Starter Plan.
 
-- [Deploy to Hyperledger Fabric locally](./docs/deploy-local-fabric.md)
-- [Deploy to IBM Blockchain Starter Plan](./docs/deploy-ibm-starter.md)
+
+- [Either deploy to Hyperledger Fabric locally, please click here](./docs/deploy-local-fabric.md)
+- [Or deploy to IBM Blockchain Starter Plan, please click here](./docs/deploy-ibm-starter.md)
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-
 ## 4. Run the Application
+At this point you will either have installed the Hyperledger Fabric locally or to the IBM Blockchain Starter Plan!
+See above for the instructions.
 
 Go into the `web-app` folder and install the dependency:
 
@@ -157,7 +158,7 @@ https://stackoverflow.com/questions/48804166/composer-runtime-install-error-card
 </div>
 </br>
 
-### Deploy application to IBM Cloud
+### Deploy application to the IBM Cloud
 
 If your hosting the network on IBM Blockchain Starter Plan, then you can [deploy the app to IBM Cloud](./docs/deploy-app-cloud.md).
 
