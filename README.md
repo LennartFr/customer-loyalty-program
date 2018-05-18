@@ -52,7 +52,7 @@ Follow these steps to setup and run this code pattern. The steps are described i
   * to install specific Node version you can use [nvm](https://davidwalsh.name/nvm)
   * Example: 'nvm install 8.94' results in: "Now using Node v8.9.4, NPM v5.6.0"
 
-## [Step 01: Work with Hyperledger Composer](readme_composer.md)
+## [Step 01: Work with Hyperledger Composer](readme-composer.md)
 
 ## [Step 0.2: Make modification to the Bootstrap Code](readme-bootstrap.md) 
 
