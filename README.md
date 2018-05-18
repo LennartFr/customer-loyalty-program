@@ -85,6 +85,7 @@ Follow these steps to setup and run this code pattern. The steps are described i
 - [npm](https://www.npmjs.com/)  (v5.x)
 - [Node](https://nodejs.org/en/) (version 8.9 or higher - note version 9 is not supported)
   * to install specific Node version you can use [nvm](https://davidwalsh.name/nvm)
+  * Example: 'nvm install 8.94' results in: "Now using Node v8.9.4, NPM v5.6.0"
 
 
 ## 1. Instlall Hyperledger Composer and clone the Customer Loyalty Program with Blockchain GitHub repo
