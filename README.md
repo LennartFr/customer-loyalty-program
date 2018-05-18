@@ -81,7 +81,7 @@ Follow these steps to setup and run this code pattern. The steps are described i
 
 ## Prerequisites
 - Operating Systems: Ubuntu Linux 14.04 / 16.04 LTS (both 64-bit), or Mac OS 10.12 or higher
-- [Docker](https://www.docker.com/) (Version 17.03 or higher)
+- [Docker](https://www.docker.com/) (Version 17.03 or higher) 
 - [npm](https://www.npmjs.com/)  (v5.x)
 - [Node](https://nodejs.org/en/) (version 8.9 or higher - note version 9 is not supported)
   * to install specific Node version you can use [nvm](https://davidwalsh.name/nvm)
