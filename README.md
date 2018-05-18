@@ -52,11 +52,13 @@ Follow these steps to setup and run this code pattern. The steps are described i
   * to install specific Node version you can use [nvm](https://davidwalsh.name/nvm)
   * Example: 'nvm install 8.94' results in: "Now using Node v8.9.4, NPM v5.6.0"
 
-
-## Lennart: Start with importing the BNA file into Hyperledger Composer
+## Step 0.1 Lennart: Start with importing the BNA file into Hyperledger Composer
 
 <img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/BNAfile.png">
 
+## Step 0.2 Lennart: Make minor change to Model in Composer
+
+## Step 0.3 Lennart: Save BNA file to disk.
 
 ## 1. Install Hyperledger Composer and clone the Customer Loyalty Program with Blockchain GitHub repo
 
