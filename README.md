@@ -80,19 +80,18 @@ To stop and remove images completely run the following commands
 Follow these steps to setup and run this code pattern. The steps are described in detail below.
 
 ## Prerequisites
-- Operating Systems: Ubuntu Linux 14.04 / 16.04 LTS (both 64-bit), or Mac OS 10.12
+- Operating Systems: Ubuntu Linux 14.04 / 16.04 LTS (both 64-bit), or Mac OS 10.12 or higher
 - [Docker](https://www.docker.com/) (Version 17.03 or higher)
 - [npm](https://www.npmjs.com/)  (v5.x)
 - [Node](https://nodejs.org/en/) (version 8.9 or higher - note version 9 is not supported)
   * to install specific Node version you can use [nvm](https://davidwalsh.name/nvm)
 
 
-
 ## 1. Instlall Hyperledger Composer and clone the Customer Loyalty Program with Blockchain GitHub repo
 
 [Hyperledger Composer](https://hyperledger.github.io/composer/installing/development-tools.html)
   
-### 1.1  
+### Step 1.1  
   * Install composer cli
     `npm install -g composer-cli`
   * Install composer-rest-server
@@ -100,7 +99,7 @@ Follow these steps to setup and run this code pattern. The steps are described i
   * Install generator-hyperledger-composer
     `npm install -g generator-hyperledger-composer
 
-### 1.2
+### Step 1.2
 Clone the `Customer Loyalty Program with Blockchain` repo locally. In a terminal, run:
 
 `git clone https://github.com/IBM/Customer-Loyalty-Program`
@@ -114,6 +113,8 @@ This file will contain your network including:
 - permissions defined in the `permissions.acl` file
 - queries defined in the `queries.qry` file
 
+### Step 2.1
+
 Run the following the command to create the bna file:
 ```
 cd customer-loyalty-program/
@@ -123,7 +124,7 @@ npm install
 The `composer archive create` command in `package.json` has created a file called `clp-network@0.0.1.bna`.   
 
 
-## 3. Deploy the Business Network
+## Step 3. Deploy the Business Network
 
 The bna can either be deployed to a local instance of Fabric or to the IBM Blockchain Starter Plan.
 
@@ -133,7 +134,7 @@ The bna can either be deployed to a local instance of Fabric or to the IBM Block
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-## 4. Run the Application
+## Step 4. Run the Application
 At this point you will either have installed the Hyperledger Fabric locally or to the IBM Blockchain Starter Plan!
 See above for the instructions.
 
