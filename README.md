@@ -42,41 +42,6 @@ This code pattern is for developers looking to start building blockchain applica
 
 # Installing the Application
 
-# Lennart: Cleanup commands:
-
-https://stackoverflow.com/questions/48365524/uninstall-hyperledger-composer
-
-Before we begin the install process we want to make certain that we remove any components that can collide with
-what we are going to install.
-
-So please run the following commands:
-
-Run these commands below to stop and remove container processes.
-
-- docker stop $(docker ps -a -q)
-- docker rm $(docker ps -a -q)
-
-To stop and remove images completely run the following commands
-
-- docker stop $(docker images -a -q)
-- docker rmi $(docker images -a -q)
-- docker ps -a
-- docker images -a
-
-- npm uninstall -g composer-cli
-- npm uninstall -g composer-rest-server
-- npm uninstall -g generator-hyperledger-composer
-- npm uninstall -g yo
-- npm uninstall -g composer-pla
-- npm uninstall -g composer-cli
-- npm uninstall -g composer-rest-server
-
-- rm -rf ~/.composer
-- rm *.card
-- rm -rf credentials
-- rm -fr ${HOME}/.composer
-
-
 Follow these steps to setup and run this code pattern. The steps are described in detail below.
 
 ## Prerequisites
@@ -155,6 +120,45 @@ The application should now be running at:
   <img width="1000" src="docs/doc-images/app.png">
 </div>
 </br>
+
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
+# Lennart: Cleanup commands:
+
+https://stackoverflow.com/questions/48365524/uninstall-hyperledger-composer
+
+Before we begin the install process we want to make certain that we remove any components that can collide with
+what we are going to install.
+
+So please run the following commands:
+
+Run these commands below to stop and remove container processes.
+
+- docker stop $(docker ps -a -q)
+- docker rm $(docker ps -a -q)
+
+To stop and remove images completely run the following commands
+
+- docker stop $(docker images -a -q)
+- docker rmi $(docker images -a -q)
+- docker ps -a
+- docker images -a
+
+- npm uninstall -g composer-cli
+- npm uninstall -g composer-rest-server
+- npm uninstall -g generator-hyperledger-composer
+- npm uninstall -g yo
+- npm uninstall -g composer-pla
+- npm uninstall -g composer-cli
+- npm uninstall -g composer-rest-server
+
+- rm -rf ~/.composer
+- rm *.card
+- rm -rf credentials
+- rm -fr ${HOME}/.composer
+
+
+
 
 ### Deploy application to the IBM Cloud
 
