@@ -89,14 +89,6 @@ Follow these steps to setup and run this code pattern. The steps are described i
   * to install generator-hyperledger-composer
     `npm install -g generator-hyperledger-composer`
 
-## Steps
-1. [Clone the repo](#1-clone-the-repo)
-2. [Generate the Business Network Archive](#2-generate-the-business-network-archive)
-3. [Deploy Network](#3-deploy-network)
-      - [Deploy to Fabric locally](./docs/deploy-local-fabric.md)
-      - [Deploy to IBM Blockchain Starter Plan](./docs/deploy-ibm-starter.md)
-4. [Run Application](#4-run-application)
-
 
 ## 1. Clone the repo
 
