@@ -1,6 +1,6 @@
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-<img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/Hyperleder%20methodology.png">
+<img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/Hyperledger%20Methodology.png">
 
 
 # Customer Loyalty Program with Blockchain
