@@ -88,7 +88,7 @@ Follow these steps to setup and run this code pattern. The steps are described i
   * Example: 'nvm install 8.94' results in: "Now using Node v8.9.4, NPM v5.6.0"
 
 
-## 1. Instlall Hyperledger Composer and clone the Customer Loyalty Program with Blockchain GitHub repo
+## 1. Install Hyperledger Composer and clone the Customer Loyalty Program with Blockchain GitHub repo
 
 [Hyperledger Composer](https://hyperledger.github.io/composer/installing/development-tools.html)
   
