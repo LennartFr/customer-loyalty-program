@@ -56,7 +56,7 @@ Follow these steps to setup and run this code pattern. The steps are described i
 
 ## [Step 0.2: Make modification to Bootstrap Code](readme_bootstrap.md) 
 
-## 1. Install Hyperledger Composer and clone the Customer Loyalty Program with Blockchain GitHub repo
+## 1. Install the Hyperledger Composer runtime components and clone the Customer Loyalty Program GitHub Repo
 
 [Hyperledger Composer](https://hyperledger.github.io/composer/installing/development-tools.html)
   
