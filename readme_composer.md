@@ -2,4 +2,6 @@
 
 # Import BNA file into Hyperledger Composer and make minor changes
 
+<img src="BNAfile.png">
+
 # Export BNA file from Hyperledger Composer
