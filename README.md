@@ -127,8 +127,8 @@ The `composer archive create` command in `package.json` has created a file calle
 The BNA file can either be deployed to a local instance of Fabric or to the IBM Blockchain Starter Plan.
 
 
-- [Either deploy to Hyperledger Fabric locally, please click here](./docs/deploy-local-fabric.md)
-- [Or deploy to IBM Blockchain Starter Plan, please click here](./docs/deploy-ibm-starter.md)
+- [To deploy to Hyperledger Fabric locally, please click here](./docs/deploy-local-fabric.md)
+- [Or to deploy to IBM Blockchain Starter Plan, please click here](./docs/deploy-ibm-starter.md)
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
