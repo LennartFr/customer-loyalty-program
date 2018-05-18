@@ -92,12 +92,9 @@ Follow these steps to setup and run this code pattern. The steps are described i
 [Hyperledger Composer](https://hyperledger.github.io/composer/installing/development-tools.html)
   
 ### Step 1.1  
-  * Install composer cli
-    `npm install -g composer-cli`
-  * Install composer-rest-server
-    `npm install -g composer-rest-server`
-  * Install generator-hyperledger-composer
-    `npm install -g generator-hyperledger-composer
+  * Install composer cli: `npm install -g composer-cli`
+  * Install composer-rest-server: `npm install -g composer-rest-server`
+  * Install generator-hyperledger-composer: `npm install -g generator-hyperledger-composer`
 
 ### Step 1.2
 Clone the `Customer Loyalty Program with Blockchain` repo locally. In a terminal, run:
