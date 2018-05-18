@@ -113,7 +113,7 @@ This file will contain your network including:
 
 ### Step 2.1
 
-Run the following the command to create the BNA file:
+Run the following command to create the BNA file:
 ```
 cd customer-loyalty-program/
 npm install
