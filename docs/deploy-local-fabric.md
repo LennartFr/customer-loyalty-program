@@ -2,7 +2,7 @@
 
 In this section we will:
 * [Setup Hyperledger Fabric locally](#setup-hyperledger-fabric-locally)
-* [Deploy network to Hyperledger Fabric instance](#deploy-network-to-hyperledger-fabric-instance)
+* [Deploy Business Network to Hyperledger Fabric instance](#deploy-network-to-hyperledger-fabric-instance)
 
 ## Setup Hyperledger Fabric Locally
 
