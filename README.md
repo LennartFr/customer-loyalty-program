@@ -60,7 +60,7 @@ Follow these steps to setup and run this code pattern. The steps are described i
 
 ## Step 0.3: Save BNA file to disk.
 
-## Step 0.4: Make minor modification to 
+## Step 0.4: Make minor modification to Bootstrap Code. 
 
 ## 1. Install Hyperledger Composer and clone the Customer Loyalty Program with Blockchain GitHub repo
 
