@@ -85,17 +85,22 @@ Follow these steps to setup and run this code pattern. The steps are described i
 - [npm](https://www.npmjs.com/)  (v5.x)
 - [Node](https://nodejs.org/en/) (version 8.9 or higher - note version 9 is not supported)
   * to install specific Node version you can use [nvm](https://davidwalsh.name/nvm)
-- [Hyperledger Composer](https://hyperledger.github.io/composer/installing/development-tools.html)
-  * to install composer cli
+
+
+
+## 1. Instlall Hyperledger Composer and clone the Customer Loyalty Program with Blockchain GitHub repo
+
+[Hyperledger Composer](https://hyperledger.github.io/composer/installing/development-tools.html)
+  
+### 1.1  
+  * Install composer cli
     `npm install -g composer-cli`
-  * to install composer-rest-server
+  * Install composer-rest-server
     `npm install -g composer-rest-server`
-  * to install generator-hyperledger-composer
-    `npm install -g generator-hyperledger-composer`
+  * Install generator-hyperledger-composer
+    `npm install -g generator-hyperledger-composer
 
-
-## 1. Clone the repo
-
+### 1.2
 Clone the `Customer Loyalty Program with Blockchain` repo locally. In a terminal, run:
 
 `git clone https://github.com/IBM/Customer-Loyalty-Program`
