@@ -124,7 +124,7 @@ The `composer archive create` command in `package.json` has created a file calle
 
 ## Step 3. Deploy the Business Network
 
-The bna can either be deployed to a local instance of Fabric or to the IBM Blockchain Starter Plan.
+The BNA file can either be deployed to a local instance of Fabric or to the IBM Blockchain Starter Plan.
 
 
 - [Either deploy to Hyperledger Fabric locally, please click here](./docs/deploy-local-fabric.md)
