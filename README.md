@@ -55,7 +55,7 @@ Follow these steps to setup and run this code pattern. The steps are described i
 
 ## Lennart: Start with importing the BNA file into Hyperledger Composer
 
-
+<img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/BNAfile.png">
 
 
 ## 1. Install Hyperledger Composer and clone the Customer Loyalty Program with Blockchain GitHub repo
