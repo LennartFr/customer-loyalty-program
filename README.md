@@ -52,13 +52,7 @@ Follow these steps to setup and run this code pattern. The steps are described i
   * to install specific Node version you can use [nvm](https://davidwalsh.name/nvm)
   * Example: 'nvm install 8.94' results in: "Now using Node v8.9.4, NPM v5.6.0"
 
-## Step 0.1: Start with importing the BNA file into Hyperledger Composer
-
-<img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/BNAfile.png">
-
-## Step 0.2: Make minor change to Model in Composer
-
-## Step 0.3: Save BNA file to disk.
+## [Step 01: Work with Hyperledger Composer](readmecomposer.md)
 
 ## Step 0.4: Make minor modification to Bootstrap Code. 
 
