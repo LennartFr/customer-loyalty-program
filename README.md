@@ -54,7 +54,7 @@ Follow these steps to setup and run this code pattern. The steps are described i
 
 ## [Step 01: Work with Hyperledger Composer](readme_composer.md)
 
-## [Step 0.2: Make modification to Bootstrap Code](readme-bootstrap.md) 
+## [Step 0.2: Make modification to the Bootstrap Code](readme-bootstrap.md) 
 
 ## 1. Install the Hyperledger Composer runtime components and clone the Customer Loyalty Program GitHub Repo
 
