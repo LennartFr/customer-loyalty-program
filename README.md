@@ -67,7 +67,7 @@ Follow these steps to setup and run this code pattern. The steps are described i
 ### Step 1.2
 Clone the `Customer Loyalty Program with Blockchain` repo locally. In a terminal, run:
 
-`clone https://github.com/LennartFr/customer-loyalty-program`
+`git clone https://github.com/LennartFr/customer-loyalty-program`
 
 ## 2. Generate the Business Network Archive
 
