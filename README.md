@@ -67,9 +67,11 @@ Follow these steps to setup and run this code pattern. The steps are described i
 ### Step 1.2
 Clone the `Customer Loyalty Program with Blockchain` repo locally. In a terminal, run:
 
-`git clone https://github.com/IBM/Customer-Loyalty-Program`
+`clone https://github.com/LennartFr/customer-loyalty-program`
 
 ## 2. Generate the Business Network Archive
+
+# Lennart note: Not needed since we already have installed the BNA file in the GitHub repo
 
 Next we will generate the Business Network Archive (BNA) file from the root directory.  
 This file will contain your network including:
@@ -79,6 +81,8 @@ This file will contain your network including:
 - queries defined in the `queries.qry` file
 
 ### Step 2.1
+
+# Lennart note: Not needed since we already have installed the BNA file in the GitHub repo
 
 Run the following command to create the BNA file:
 ```
@@ -92,7 +96,6 @@ The `composer archive create` command in `package.json` has created a file calle
 ## Step 3. Deploy the Business Network
 
 The BNA file can either be deployed to a local instance of Fabric or to the IBM Blockchain Starter Plan.
-
 
 - [To deploy to Hyperledger Fabric locally, please click here](./docs/deploy-local-fabric.md)
 - [Or to deploy to IBM Blockchain Starter Plan, please click here](./docs/deploy-ibm-starter.md)
