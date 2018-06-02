@@ -55,13 +55,7 @@ This code pattern is for developers looking to start building blockchain applica
 
 <img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/Composer3.PNG">
 
-<img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/Composer4.PNG">
-
 <img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/Composer5.PNG">
-
-<img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/Composer6.PNG">
-
-<img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/Composer7.PNG">
 
 <img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/Composer8.PNG">
 
