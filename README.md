@@ -1,8 +1,5 @@
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-<img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/Methodology.png">
-
-
 # Customer Loyalty Program with Blockchain
 
 This blockchain model for a customer loyalty program enhances the value of points to loyalty program members and brings in new value to the partners. Participants in this network have a more level relation among each other and points are in the centric position to connect all participants.
@@ -49,6 +46,11 @@ Follow these steps to setup and run this code pattern. The steps are described i
 - [npm](https://www.npmjs.com/)  (v5.x)
 - [Node](https://nodejs.org/en/) (version 8.9 or higher - note version 9 is not supported)
   * to install specific Node version you can use [nvm](https://davidwalsh.name/nvm)
+  
+  1. nvm install 8.9
+  2. nvm use 8.9 
+  3. output: Now using node v8.9.4 (npm 6.1.0)
+  
   * Example: 'nvm install 8.94' results in: "Now using Node v8.9.4, NPM v5.6.0"
 
 ## [Step 01: Work with Hyperledger Composer](readme-composer.md)
