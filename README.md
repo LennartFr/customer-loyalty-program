@@ -131,9 +131,6 @@ This code pattern is for developers looking to start building blockchain applica
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-# Create an app in the Hyperledger Composer:
-
-
 # Develop Blockchain applications on Hyperledger Fabric   
 
 Hyperledger, an open source collaborative effort to advance cross-industry blockchain technologies, 
@@ -168,12 +165,6 @@ https://www.hyperledger.org/projects/composer
 Hyperledger Composer Modeling Language: https://hyperledger.github.io/composer/v0.16/reference/cto_language
 
 [Composer Playground](https://composer-playground.mybluemix.net/login)
-
-
-
-
-
-
 
 ## Architecture
 
