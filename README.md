@@ -36,7 +36,15 @@ This code pattern is for developers looking to start building blockchain applica
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-# Install the Application
+# Familiarize ourselves with the Hyperledger Composer:
+
+1. Bring up the Hyperledger Composer Playground: https://composer-playground.mybluemix.net/
+1. Import BNA file intp Playground: clp-network@0.0.1.bna (In this repo)
+
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
+
+# Running the Application
 
 Follow these steps to setup and run this code pattern. The steps are described in detail below.
 
@@ -52,10 +60,6 @@ Follow these steps to setup and run this code pattern. The steps are described i
   3. output: Now using node v8.9.4 (npm 6.1.0)
   
   * Example: 'nvm install 8.94' results in: "Now using Node v8.9.4, NPM v5.6.0"
-
-## [Step 01: Work with Hyperledger Composer](readme-composer.md)
-
-## [Step 0.2: Make modification to the Bootstrap Code](readme-bootstrap.md) 
 
 ## 1. Install the Hyperledger Composer runtime components and clone the Customer Loyalty Program GitHub Repo
 
