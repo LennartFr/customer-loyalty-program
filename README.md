@@ -51,12 +51,16 @@ This code pattern is for developers looking to start building blockchain applica
 
 <img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/Lets%20Blockchain.PNG">
 
+### Import BNA file
 <img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/Composer2.PNG">
 
+###D eploy
 <img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/Composer3.PNG">
 
+### Connect
 <img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/Composer5.PNG">
 
+### Readme
 <img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/Composer8.PNG">
 
 
