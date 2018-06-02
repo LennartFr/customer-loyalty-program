@@ -73,18 +73,12 @@ Clone the `Customer Loyalty Program with Blockchain` repo locally. In a terminal
 
 ## 2. Generate the Business Network Archive
 
-# Lennart note: Not needed since we already have installed the BNA file in the GitHub repo
-
 Next we will generate the Business Network Archive (BNA) file from the root directory.  
 This file will contain your network including:
 - the model defined in the `org.clp.biznet.cto` file in the `models` folder
 - the logic behind transactions in the `logic.js` file in the `lib` folder
 - permissions defined in the `permissions.acl` file
 - queries defined in the `queries.qry` file
-
-### Step 2.1
-
-# Lennart note: Not needed since we already have installed the BNA file in the GitHub repo
 
 Run the following command to create the BNA file:
 ```
@@ -129,43 +123,6 @@ The application should now be running at:
 </br>
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-
-# Lennart: Cleanup commands:
-
-https://stackoverflow.com/questions/48365524/uninstall-hyperledger-composer
-
-Before we begin the install process we want to make certain that we remove any components that can collide with
-what we are going to install.
-
-So please run the following commands:
-
-Run these commands below to stop and remove container processes.
-
-- docker stop $(docker ps -a -q)
-- docker rm $(docker ps -a -q)
-
-To stop and remove images completely run the following commands
-
-- docker stop $(docker images -a -q)
-- docker rmi $(docker images -a -q)
-- docker ps -a
-- docker images -a
-
-- npm uninstall -g composer-cli
-- npm uninstall -g composer-rest-server
-- npm uninstall -g generator-hyperledger-composer
-- npm uninstall -g yo
-- npm uninstall -g composer-pla
-- npm uninstall -g composer-cli
-- npm uninstall -g composer-rest-server
-
-- rm -rf ~/.composer
-- rm *.card
-- rm -rf credentials
-- rm -fr ${HOME}/.composer
-
-
-
 
 ### Deploy application to the IBM Cloud
 
