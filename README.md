@@ -29,7 +29,6 @@ This code pattern is for developers looking to start building blockchain applica
 3. Partner is registered on the network
 4. Partner can sign-in to view their transactions and display dashboard
 
-
 # Hyperledger and Blockchain Components we will be working with
 
 * [Hyperledger Composer v0.19.4](https://hyperledger.github.io/composer/latest/) Hyperledger Composer is an extensive, open development toolset and framework to make developing blockchain applications easier
@@ -51,6 +50,20 @@ This code pattern is for developers looking to start building blockchain applica
 ## Composer Starting Page
 
 <img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/Lets%20Blockchain.PNG">
+
+<img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/Composer2.PNG">
+
+<img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/Composer3.PNG">
+
+<img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/Composer4.PNG">
+
+<img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/Composer5.PNG">
+
+<img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/Composer6.PNG">
+
+<img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/Composer7.PNG">
+
+<img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/Composer8.PNG">
 
 
 1. Bring up the Hyperledger Composer Playground: https://composer-playground.mybluemix.net/
