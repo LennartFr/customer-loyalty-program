@@ -9,6 +9,136 @@ Published October 2008.<p>
 
 <img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/Harvard%20Business%20Review.PNG">
 
+# How it all started
+<p>
+October 2008 It all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) 
+which addressed a key problem in electronic commerce:
+<h3>
+<b> 
+ 
+~~~
+A purely peer-to-peer version of electronic cash would allow online payments
+to be sent directly from one party to another without going through a financial 
+institution. 
+
+Digital signatures provide part of the solution, but the main benefits are lost 
+if a trusted third party is still required to prevent double-spending.
+
+We propose a solution to the double-spending problem using a peer-to-peer network.
+~~~
+
+</b>
+</h3>
+
+# Bitcoin versus Blockchain
+<table>
+ <tr><th> Bitcoin <th> Blockchain </tr> 
+ <tr><td>Cryptocurrency <td>Assets</tr>
+<tr><td>Anonymity <td> Identity</tr>
+ <tr><td>Proof of work (mining) <td>Selective endorsement (consensus)</tr>
+ </table>
+
+## [The similarities of public and private blockchain](https://www.ibm.com/blogs/blockchain/2017/05/the-difference-between-public-and-private-blockchain/)
+
+1. Both are decentralized peer-to-peer networks, where each participant maintains a replica of a shared append-only ledger of digitally signed transactions.
+1. Both maintain the replicas in sync through a protocol referred to as consensus.
+1. Both provide certain guarantees on the immutability of the ledger, even when some participants are faulty or malicious.
+
+## [Public blockchain and known participants](https://www.ibm.com/blogs/blockchain/2017/05/the-difference-between-public-and-private-blockchain/)
+
+1. The sole distinction between public and private blockchain is related to who is allowed to participate in the network, execute the consensus protocol and maintain the shared ledger. 
+1. A public blockchain network is completely open and anyone can join and participate in the network. The network typically has an incentivizing mechanism to encourage more participants to join the network. Bitcoin is one of the largest public blockchain networks in production today.
+
+1. One of the drawbacks of a public blockchain is the substantial amount of computational power that is necessary to maintain a distributed ledger at a large scale. More specifically, to achieve consensus, each node in a network must solve a complex, resource-intensive cryptographic problem called a proof of work to ensure all are in sync.
+
+1. Another disadvantage is the openness of public blockchain, which implies little to no privacy for transactions and only supports a weak notion of security. Both of these are important considerations for enterprise use cases of blockchain.
+
+
+
+
+[Bitcoin: Proof of Work vs Proof of Stake](https://www.ccn.com/bitcoins-future-proof-of-stake-vs-proof-of-work/)
+ 
+ 
+## Background to Blockchain, Connected Markets. <p>
+Networks connect participants: customers, suppliers, banks, consumers
+ * <b>Markets </b> organize trades: Public and private markets
+ * Value comes from <b>assets</b>: Physical assets (house, car ...), Virtual assets (bond, patent ...), Services are also assets
+ * <b>Transactions </b> exchange assets 
+
+An asset can be tangible — a house, a car, cash,  land  —  or  intangible  like  intellectual  property,  such  as 
+patents, copyrights, or branding. Virtually anything of value can be tracked and traded on a blockchain network, reducing risk and 
+cutting costs for all involved.
+<p>
+ <p>
+ https://www.itu.int/en/ITU-T/Workshops-and-Seminars/201703/Documents/Christian%20Cachin%20blockchain-itu.pdf
+<p>
+A blockchain is a <b>decentralized virtual ledger</b> for recording <b>transactions about assets </b> without <b>central authority</b> through a <b>distributed cryptographic protocol</b>. 
+<p>
+ The blockchain ledger is permissioned, it supports consensus, it has provenance, immutability and finality.
+
+## The Blockchain Distributed Ledger
+
+<img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
+<p>
+ 
+<b>Anything that you can make a list of, you can manage with blockchains</b> 
+
+## Four elements characterize Blockchain
+
+### Replicated ledger
+* History of all transactions
+* Append-only with immutable past
+* Distributed and replicated
+ 
+### Cryptography
+* Integrity of ledger
+* Authenticity of Transactions
+* Privacy of Transactions
+* Identity of Participants
+
+### Consensus
+* Decentralized Protocol
+* Shared conrol tolerating disruption
+* Transactions validated
+
+### Business Logic
+* Logic embedded in the ledger
+* Executed together with transactions
+* From simple "coins" to self-enforcing "smart contracts" 
+                       
+<p>
+which combined provide a trustworthy service to a group of nodes that do not fully trust each other. 
+<p>
+With blockchain, several users can write entries into a block or a record of information, and a community can control how the record of information is modified and updated.
+
+[E-book Blockchain for Dummies](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=XIM12354USEN)
+<p>
+
+# Bockchain concepts
+
+## The Ledger and the State Database
+
+There are two place which "store" data in Hyperledger Fabric:
+### The ledger is the actual "blockchain". 
+It is a file-based ledger which stores serialized blocks. Each block has one or more transactions. <br>
+Each transaction contains a read-write set which modifies one or more key/value pairs. <br>
+The ledger is the definitive source of data and is immutable.
+
+### The state database holds the last known committed value for any given key. 
+It is populated when each peer validates and commits a transaction. <br>
+The state database can always be rebuilt from re-processing the ledger. <br>
+There are currently two options for the state database: an embedded LevelDB or an external CouchDB.
+<p>
+As an aside, if you are familiar with Hyperledger Fabric channels, there is a separate ledger for each channel as well.
+<p>
+When we query from where do we retrieve data?  1) from the blockchain chain or 2) from state db? <p>.
+If it is from state db how can it retrieve a specific key because you mentioned "state database holds the last known committed value for any given key" <p> 
+Queries or GetState in chaincode return data from the state db. They will only return the last value for a key. <p>
+If you want to get the entire history for a key, you need to enable the historical database in the configuration of your peer 
+
+### Chaincode.
+Like <b>Stored Procedures</b> in a traditional database, handles business logic. http://hyperledger-fabric.readthedocs.io/en/release/chaincode4ade.htm
+
 
 
 
