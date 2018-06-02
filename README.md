@@ -168,8 +168,6 @@ Hyperledger Composer Modeling Language: https://hyperledger.github.io/composer/v
 
 <img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/Composer%20Runtime.PNG">
 
-## Composer Starting Page
-
 # Composer Playground http://composer-playground.mybluemix.net/
 
 1. Bring up the Hyperledger Composer Playground: https://composer-playground.mybluemix.net/
