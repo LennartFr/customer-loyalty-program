@@ -174,7 +174,7 @@ Hyperledger Composer Modeling Language: https://hyperledger.github.io/composer/v
 
 # Composer Playground http://composer-playground.mybluemix.net/
 
-### Upload BNA file by down-arrow.
+### UDownload clp-network@0.0.1.bna BNA from repo to disk. Upload BNA file into Composer by down-arrow.
 <img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/Composer2.PNG">
 
 ### Deploy BNA File
