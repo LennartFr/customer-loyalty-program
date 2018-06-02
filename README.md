@@ -89,6 +89,8 @@ which combined provide a trustworthy service to a group of nodes that do not ful
 <p>
 With blockchain, several users can write entries into a block or a record of information, and a community can control how the record of information is modified and updated.
 
+<a href="https://www.ibm.com/blockchain/use-cases/">Blockchain Use Cases</a>
+
 [E-book Blockchain for Dummies](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=XIM12354USEN)
 <p>
 
