@@ -51,7 +51,7 @@ This code pattern is for developers looking to start building blockchain applica
 
 <img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/Lets%20Blockchain.PNG">
 
-### Upload BNA file by up-arrow.
+### Upload BNA file by down-arrow.
 <img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/Composer2.PNG">
 
 ### Deploy BNA File
