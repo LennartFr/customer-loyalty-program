@@ -44,7 +44,11 @@ This code pattern is for developers looking to start building blockchain applica
 
 # Create an app in the Hyperledger Composer:
 
+## Architecture
+
 <img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/Composer%20Runtime.PNG">
+
+## Composer Starting Page
 
 <img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/Lets%20Blockchain.PNG">
 
