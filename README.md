@@ -7,6 +7,11 @@
 # Introduction
 Published October 2008.<p>
 
+<img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/Harvard%20Business%20Review.PNG">
+
+
+
+
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Customer Loyalty Program with Blockchain
