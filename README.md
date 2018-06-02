@@ -2,6 +2,8 @@
 
 # Call for Code
 
+<img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/Call%20for%20Code.PNG">
+
 <a href="https://developer.ibm.com/callforcode/">Call for Code</a>
 
 
