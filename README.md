@@ -47,8 +47,9 @@ This code pattern is for developers looking to start building blockchain applica
 <img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/Lets%20Blockchain.PNG">
 
 1. Bring up the Hyperledger Composer Playground: https://composer-playground.mybluemix.net/
-1. Import BNA file intp Playground: clp-network@0.0.1.bna (In this repo)
+1. Import BNA file into the Playground: clp-network@0.0.1.bna (In this repo)
 
+Learn the Hyperledger Composer Modeling Language: https://hyperledger.github.io/composer/latest/reference/cto_language.html
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
