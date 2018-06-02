@@ -15,8 +15,7 @@ Published October 2008.<p>
 
 # How it all started
 <p>
-October 2008 It all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) 
-which addressed a key problem in electronic commerce:
+October 2008 It all started with Satoshi Nakamoto and his paper <a href="https://bitcoin.org/bitcoin.pdf"> A Peer-to-Peer Electronic Cash System</a> which addressed a key problem in electronic commerce:
 <h3>
 <b> 
  
