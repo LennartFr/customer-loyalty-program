@@ -44,7 +44,10 @@ This code pattern is for developers looking to start building blockchain applica
 
 # Create an app in the Hyperledger Composer:
 
+<img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/Composer%20Runtime.PNG">
+
 <img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/Lets%20Blockchain.PNG">
+
 
 1. Bring up the Hyperledger Composer Playground: https://composer-playground.mybluemix.net/
 1. Import BNA file into the Playground: clp-network@0.0.1.bna (In this repo)
