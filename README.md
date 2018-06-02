@@ -1,8 +1,5 @@
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-# How did it all start?
-
-<img src="https://farm1.staticflickr.com/894/40696462890_8ebf943507_z.jpg" width="640" height="308" alt="bitcoinpaper">
 
 # Introduction
 Published October 2008.<p>
@@ -30,35 +27,7 @@ We propose a solution to the double-spending problem using a peer-to-peer networ
 </b>
 </h3>
 
-# Bitcoin versus Blockchain
-<table>
- <tr><th> Bitcoin <th> Blockchain </tr> 
- <tr><td>Cryptocurrency <td>Assets</tr>
-<tr><td>Anonymity <td> Identity</tr>
- <tr><td>Proof of work (mining) <td>Selective endorsement (consensus)</tr>
- </table>
 
-## [The similarities of public and private blockchain](https://www.ibm.com/blogs/blockchain/2017/05/the-difference-between-public-and-private-blockchain/)
-
-1. Both are decentralized peer-to-peer networks, where each participant maintains a replica of a shared append-only ledger of digitally signed transactions.
-1. Both maintain the replicas in sync through a protocol referred to as consensus.
-1. Both provide certain guarantees on the immutability of the ledger, even when some participants are faulty or malicious.
-
-## [Public blockchain and known participants](https://www.ibm.com/blogs/blockchain/2017/05/the-difference-between-public-and-private-blockchain/)
-
-1. The sole distinction between public and private blockchain is related to who is allowed to participate in the network, execute the consensus protocol and maintain the shared ledger. 
-1. A public blockchain network is completely open and anyone can join and participate in the network. The network typically has an incentivizing mechanism to encourage more participants to join the network. Bitcoin is one of the largest public blockchain networks in production today.
-
-1. One of the drawbacks of a public blockchain is the substantial amount of computational power that is necessary to maintain a distributed ledger at a large scale. More specifically, to achieve consensus, each node in a network must solve a complex, resource-intensive cryptographic problem called a proof of work to ensure all are in sync.
-
-1. Another disadvantage is the openness of public blockchain, which implies little to no privacy for transactions and only supports a weak notion of security. Both of these are important considerations for enterprise use cases of blockchain.
-
-
-
-
-[Bitcoin: Proof of Work vs Proof of Stake](https://www.ccn.com/bitcoins-future-proof-of-stake-vs-proof-of-work/)
- 
- 
 ## Background to Blockchain, Connected Markets. <p>
 Networks connect participants: customers, suppliers, banks, consumers
  * <b>Markets </b> organize trades: Public and private markets
