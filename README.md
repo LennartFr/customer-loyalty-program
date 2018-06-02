@@ -164,8 +164,6 @@ https://www.hyperledger.org/projects/composer
 
 Hyperledger Composer Modeling Language: https://hyperledger.github.io/composer/v0.16/reference/cto_language
 
-[Composer Playground](https://composer-playground.mybluemix.net/login)
-
 ## Architecture
 
 <img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/Composer%20Runtime.PNG">
@@ -173,6 +171,8 @@ Hyperledger Composer Modeling Language: https://hyperledger.github.io/composer/v
 ## Composer Starting Page
 
 <img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/Lets%20Blockchain.PNG">
+
+[Composer Playground](https://composer-playground.mybluemix.net/login)
 
 ### Upload BNA file by down-arrow.
 <img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/Composer2.PNG">
