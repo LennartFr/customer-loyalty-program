@@ -170,14 +170,13 @@ Hyperledger Composer Modeling Language: https://hyperledger.github.io/composer/v
 
 ## Composer Starting Page
 
-<img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/Lets%20Blockchain.PNG">
-
 # Composer Playground http://composer-playground.mybluemix.net/
 
 1. Bring up the Hyperledger Composer Playground: https://composer-playground.mybluemix.net/
 1. Import BNA file into the Playground via disk: `clp-network@0.0.1.bna` (In this repo)
+1. Learn the Hyperledger Composer Modeling Language: https://hyperledger.github.io/composer/latest/reference/cto_language.html
 
-Learn the Hyperledger Composer Modeling Language: https://hyperledger.github.io/composer/latest/reference/cto_language.html
+<img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/Lets%20Blockchain.PNG">
 
 <img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/Composer2.PNG">
 
