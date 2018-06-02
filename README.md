@@ -4,6 +4,8 @@
 
 <img src="https://farm1.staticflickr.com/894/40696462890_8ebf943507_z.jpg" width="640" height="308" alt="bitcoinpaper">
 
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
 # Customer Loyalty Program with Blockchain
 
 This blockchain model for a customer loyalty program enhances the value of points to loyalty program members and brings in new value to the partners. Participants in this network have a more level relation among each other and points are in the centric position to connect all participants.
