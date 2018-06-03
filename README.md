@@ -79,8 +79,6 @@ Clone the `Customer Loyalty Program with Blockchain` repo locally. In a terminal
 
 `git clone https://github.com/LennartFr/customer-loyalty-program`
 
-## Step 4. <a href="https://github.com/LennartFr/customer-loyalty-program/blob/master/Composer.md"> Work with the BNA file in the Hyperledger Composer: </a>
-
 ## Step 2. Generate the Business Network Archive
 
 Next we will generate the Business Network Archive (BNA) file from the root directory.  
