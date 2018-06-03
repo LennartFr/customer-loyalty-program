@@ -68,8 +68,6 @@ Follow these steps to setup and run this code pattern. The steps are described i
   * Example: 'nvm install 8.94' results in: "Now using Node v8.9.4, NPM v5.6.0"
 
 ## 1. Install the Hyperledger Composer runtime components and clone the Customer Loyalty Program GitHub Repo
-
-[Hyperledger Composer](https://hyperledger.github.io/composer/installing/development-tools.html)
   
 ### Step 1.1  
   * Install composer cli: `npm install -g composer-cli`
