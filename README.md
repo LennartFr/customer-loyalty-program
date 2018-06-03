@@ -123,6 +123,9 @@ This code pattern is for developers looking to start building blockchain applica
 
 * [Hyperledger Composer v0.19.4](https://hyperledger.github.io/composer/latest/) Hyperledger Composer is an extensive, open development toolset and framework to make developing blockchain applications easier
 * [Hyperledger Fabric v1.1](https://hyperledger-fabric.readthedocs.io) Hyperledger Fabric is a platform for distributed ledger solutions, underpinned by a modular architecture delivering high degrees of confidentiality, resiliency, flexibility and scalability.
+
+##  <a href="https://github.com/LennartFr/customer-loyalty-program/blob/master/Fabric.md">Familiarize yourselved with the Hyperledger Fabric: </a>
+
 * [IBM Blockchain Starter Plan](https://console.bluemix.net/catalog/services/blockchain) The IBM Blockchain Platform Starter Plan allows to build and try out blockchain network in an environment designed for development and testing
 
 ## Featured technologies
@@ -163,6 +166,8 @@ Clone the `Customer Loyalty Program with Blockchain` repo locally. In a terminal
 
 `git clone https://github.com/LennartFr/customer-loyalty-program`
 
+## Step 4. <a href="https://github.com/LennartFr/customer-loyalty-program/blob/master/Composer.md"> Work with the BNA file in the Hyperledger Composer: </a>
+
 ## Step 2. Generate the Business Network Archive
 
 Next we will generate the Business Network Archive (BNA) file from the root directory.  
@@ -180,9 +185,9 @@ npm install
 
 The `composer archive create` command in `package.json` has created a file called `clp-network@0.0.1.bna`.   
 
-## Step 3. <a href="https://github.com/LennartFr/customer-loyalty-program/blob/master/Composer.md"> Work with the BNA file in the Hyperledger Composer: </a>
+## Step 4. <a href="https://github.com/LennartFr/customer-loyalty-program/blob/master/Composer.md"> Work with the BNA file in the Hyperledger Composer: </a>
 
-## Step 4. Deploy the Business Network
+## Step 5. Deploy the Business Network
 
 The BNA file can either be deployed to a local instance of Fabric or to the IBM Blockchain Starter Plan.
 
@@ -191,7 +196,7 @@ The BNA file can either be deployed to a local instance of Fabric or to the IBM 
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-## Step 5. Run the Application
+## Step 6. Run the Application
 At this point you will either have installed the Hyperledger Fabric locally or to the IBM Blockchain Starter Plan!
 See above for the instructions.
 
