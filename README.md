@@ -96,7 +96,7 @@ npm install
 
 The `composer archive create` command in `package.json` has created a file called `clp-network@0.0.1.bna`.   
 
-## Step 3. <a href="https://github.com/LennartFr/customer-loyalty-program/blob/master/Composer.md"> Work with the BNA file in the Hyperledger Composer: </a>
+## Step 3. <a href="https://github.com/LennartFr/customer-loyalty-program/blob/master/Composer.md"> Work with the BNA file in the Hyperledger Composer </a>
 
 ## Step 4. Deploy the Business Network
 
