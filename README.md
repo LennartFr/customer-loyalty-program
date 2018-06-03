@@ -124,8 +124,6 @@ This code pattern is for developers looking to start building blockchain applica
 * [Hyperledger Composer v0.19.4](https://hyperledger.github.io/composer/latest/) Hyperledger Composer is an extensive, open development toolset and framework to make developing blockchain applications easier
 * [Hyperledger Fabric v1.1](https://github.com/LennartFr/customer-loyalty-program/blob/master/fabric.md) Hyperledger Fabric is a platform for distributed ledger solutions, underpinned by a modular architecture delivering high degrees of confidentiality, resiliency, flexibility and scalability.
 
-##  <a href="https://github.com/LennartFr/customer-loyalty-program/blob/master/Fabric.md">Familiarize yourselved with the Hyperledger Fabric: </a>
-
 * [IBM Blockchain Starter Plan](https://console.bluemix.net/catalog/services/blockchain) The IBM Blockchain Platform Starter Plan allows to build and try out blockchain network in an environment designed for development and testing
 
 ## Featured technologies
