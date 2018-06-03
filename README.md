@@ -180,8 +180,9 @@ npm install
 
 The `composer archive create` command in `package.json` has created a file called `clp-network@0.0.1.bna`.   
 
+## <a href=" https://github.com/LennartFr/customer-loyalty-program/blob/master/Composer.md">Step 3. Work with the BNA file in the Hyperledger Composer</a>
 
-## Step 3. Deploy the Business Network
+## Step 4. Deploy the Business Network
 
 The BNA file can either be deployed to a local instance of Fabric or to the IBM Blockchain Starter Plan.
 
@@ -190,7 +191,7 @@ The BNA file can either be deployed to a local instance of Fabric or to the IBM 
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-## Step 4. Run the Application
+## Step 5. Run the Application
 At this point you will either have installed the Hyperledger Fabric locally or to the IBM Blockchain Starter Plan!
 See above for the instructions.
 
