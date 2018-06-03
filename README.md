@@ -122,7 +122,7 @@ This code pattern is for developers looking to start building blockchain applica
 # Hyperledger and Blockchain Components we will be working with
 
 * [Hyperledger Composer v0.19.4](https://hyperledger.github.io/composer/latest/) Hyperledger Composer is an extensive, open development toolset and framework to make developing blockchain applications easier
-* [Hyperledger Fabric v1.1](https://hyperledger-fabric.readthedocs.io) Hyperledger Fabric is a platform for distributed ledger solutions, underpinned by a modular architecture delivering high degrees of confidentiality, resiliency, flexibility and scalability.
+* [Hyperledger Fabric v1.1](https://github.com/LennartFr/customer-loyalty-program/blob/master/fabric.md) Hyperledger Fabric is a platform for distributed ledger solutions, underpinned by a modular architecture delivering high degrees of confidentiality, resiliency, flexibility and scalability.
 
 ##  <a href="https://github.com/LennartFr/customer-loyalty-program/blob/master/Fabric.md">Familiarize yourselved with the Hyperledger Fabric: </a>
 
