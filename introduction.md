@@ -127,7 +127,7 @@ In Hyperledger Composer: save data model as a .bna file.
 
 [Step by step description](https://developer.ibm.com/code/patterns/decentralized-energy-hyperledger-composer/)
 
-## Steo 6: [Deploy on the IBM Blockchain Platform](https://www.ibm.com/blockchain/platform/)
+## Step 6: Deploy on the IBM Blockchain Platform
 
 <img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img1.png"><br>
 <img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img2.png"><br>
