@@ -11,7 +11,7 @@
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-<a href="https://github.com/LennartFr/customer-loyalty-program/blob/master/introduction.md">Introduction to Blockchain</a>
+# <a href="https://github.com/LennartFr/customer-loyalty-program/blob/master/introduction.md">Introduction to Blockchain</a>
 
 # Customer Loyalty Program with Blockchain
 
