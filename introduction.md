@@ -88,7 +88,8 @@ With blockchain, several users can write entries into a block or a record of inf
 
 <a href="https://www.ibm.com/blockchain/use-cases/">Blockchain Use Cases</a>
 
-[E-book Blockchain for Dummies](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=XIM12354USEN)
+## Consensus overview
+
 <p>
 
 
