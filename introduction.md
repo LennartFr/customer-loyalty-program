@@ -54,6 +54,8 @@ A blockchain is a <b>decentralized virtual ledger</b> for recording <b>transacti
 <img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
 <p>
  
+ <b>No ledger reconciliation</b>
+ 
 <b>Anything that you can make a list of, you can manage with blockchains</b> 
 
 ## Four elements characterize Blockchain
