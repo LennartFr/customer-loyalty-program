@@ -136,5 +136,7 @@ In Hyperledger Composer: save data model as a .bna file.
 
 [IBM Blockchain Platform Service](https://console.bluemix.net/catalog/services/blockchain)
 
+# <a href="https://github.com/LennartFr/customer-loyalty-program">Back to main thread</a>
+
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
