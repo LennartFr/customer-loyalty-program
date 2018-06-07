@@ -104,7 +104,7 @@ With blockchain, several users can write entries into a block or a record of inf
  
  ## Chaincode
  
- <"https://github.com/LennartFr/customer-loyalty-program/blob/master/img/chaincode.PNG">
+ <img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/chaincode.PNG">
 
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband"> 
