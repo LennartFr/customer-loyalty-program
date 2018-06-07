@@ -6,6 +6,11 @@
 
 # How it all started
 <p>
+
+
+<img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/fianncial%20crisis.PNG">
+
+
 October 2008 It all started with Satoshi Nakamoto and his paper <a href="https://bitcoin.org/bitcoin.pdf"> A Peer-to-Peer Electronic Cash System</a> which addressed a key problem in electronic commerce:
 <h3>
 <b> 
@@ -23,6 +28,8 @@ We propose a solution to the double-spending problem using a peer-to-peer networ
 
 </b>
 </h3>
+
+
 
 
 ## Background to Blockchain, Connected Markets. <p>
