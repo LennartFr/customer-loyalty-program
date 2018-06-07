@@ -11,7 +11,7 @@ https://youtu.be/pr4Hb0jb0lo
 
 https://www.hyperledger.org/projects/fabric
 
-[Hyperledger Fabric Documentation](https://hyperledger-fabric.readthedocs.io/en/release/)
+[Hyperledger Fabric Documentation](https://hyperledger-fabric.readthedocs.io/en/release-1.1/)
 
 <img src="https://farm5.staticflickr.com/4494/37926120211_b7dddb090d_o.png" width="682" height="423" alt="Hyperledger Services">
 <p> Permissioned<p> 
