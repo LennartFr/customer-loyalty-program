@@ -92,13 +92,6 @@ With blockchain, several users can write entries into a block or a record of inf
 <p>
 
 
-
-# [IBM Blockchain Platform Service](https://console.bluemix.net/catalog/services/blockchain)
-
-[IBM Blockchain Platform](https://console.bluemix.net/developer/blockchain/dashboard)
-
-[Launch a basic IBM Blockchain network on the IBM Container Service's free plan](https://ibm-blockchain.github.io)
-
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband"> 
   
 # Designing and creating Blockchain applications
@@ -141,9 +134,7 @@ In Hyperledger Composer: save data model as a .bna file.
 <img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img3.png"><br>
 <img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img4.png"><br>
 
-[Deploy a sample application to the IBM Blockchain Platform Get up and running with the Enterprise Membership fast](https://www.ibm.com/developerworks/cloud/library/cl-deploy-sample-application-ibm-blockchain-platform/index.html)
-
-[Develop in a cloud sandbox IBM Blockchain Platform](https://ibm-blockchain.github.io/)
+[IBM Blockchain Platform Service](https://console.bluemix.net/catalog/services/blockchain)
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
