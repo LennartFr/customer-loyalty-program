@@ -31,7 +31,6 @@ We propose a solution to the double-spending problem using a peer-to-peer networ
 
 
 
-
 ## Background to Blockchain, Connected Markets. <p>
 Networks connect participants: customers, suppliers, banks, consumers
  * <b>Markets </b> organize trades: Public and private markets
@@ -89,6 +88,12 @@ With blockchain, several users can write entries into a block or a record of inf
 <a href="https://www.ibm.com/blockchain/use-cases/">Blockchain Use Cases</a>
 
 ## Consensus overview
+<img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/consensus1.PNG">
+
+<img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/consensus2.PNG">
+
+<img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/consensus3.PNG">
+
 
 <p>
 
