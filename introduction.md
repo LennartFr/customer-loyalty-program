@@ -1,6 +1,6 @@
 
 # Introduction
-Published October 2008.<p>
+<p>
 
 <img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/Harvard%20Business%20Review.PNG">
 
