@@ -89,7 +89,7 @@ With blockchain, several users can write entries into a block or a record of inf
 
 ## Actors
 
-<img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/actors.PNG">
+<img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/Actors.PNG">
 
 
 ## Consensus overview
