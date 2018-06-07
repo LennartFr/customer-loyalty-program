@@ -87,6 +87,11 @@ With blockchain, several users can write entries into a block or a record of inf
 
 <a href="https://www.ibm.com/blockchain/use-cases/">Blockchain Use Cases</a>
 
+## Actors
+
+<img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/actors.PNG">
+
+
 ## Consensus overview
 <img src="https://github.com/LennartFr/customer-loyalty-program/blob/master/img/consensus1.PNG">
 
