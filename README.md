@@ -52,6 +52,8 @@ This code pattern is for developers looking to start building blockchain applica
 
 # Running the Application
 
+Original: https://github.com/raheelzubairy/customer-loyalty-program
+
 Follow these steps to setup and run this code pattern. The steps are described in detail below.
 
 ## Prerequisites
